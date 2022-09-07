@@ -1,0 +1,6 @@
+README.md
+setup.py
+Time_Series_Error_Python.egg-info/PKG-INFO
+Time_Series_Error_Python.egg-info/SOURCES.txt
+Time_Series_Error_Python.egg-info/dependency_links.txt
+Time_Series_Error_Python.egg-info/top_level.txt

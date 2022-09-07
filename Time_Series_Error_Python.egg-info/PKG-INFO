@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Time-Series-Error-Python
+Version: 0.0.1
+Summary: Robust python package to evaluate time series errors and validate the accuracy
+Home-page: https://github.com/SahanDisa/pypi-time-series-error-package
+Author: Sahan Dissanayaka - COTS
+Author-email: tsahandisaai@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+This package consist of the novel state-of-the-art time series error evaluation metrics in order to measure and evaluate time series
